@@ -1,6 +1,6 @@
 # Fracture Detection on X-Ray Images using EfficientNet-B3
 
-This repository provides the best-performing deep learning model developed for automated fracture detection on X-ray images. The model is based on the EfficientNet-B3 architecture and was trained using a curated dataset of fracture and non-fracture radiographs. The repository includes model weights, inference scripts, and documentation to support further research, model evaluation, and potential clinical integration.
+This repository provides the best-performing deep learning model developed for automated fracture detection on X-ray images. The model is based on the EfficientNet-B3 architecture and was trained using a curated dataset of fracture and non-fracture radiographs.
 
 ---
 
